@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True Voila-App-Base-Copy1.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True Voila-App-Bee.ipynb
